@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://stimulize.spbuilder.org/static/css/main.c107c7f9.css",
+    "main.js": "https://stimulize.spbuilder.org/static/js/main.2698c551.js",
+    "static/js/453.eae8a547.chunk.js": "https://stimulize.spbuilder.org/static/js/453.eae8a547.chunk.js",
+    "index.html": "https://stimulize.spbuilder.org/index.html",
+    "main.c107c7f9.css.map": "https://stimulize.spbuilder.org/static/css/main.c107c7f9.css.map",
+    "main.2698c551.js.map": "https://stimulize.spbuilder.org/static/js/main.2698c551.js.map",
+    "453.eae8a547.chunk.js.map": "https://stimulize.spbuilder.org/static/js/453.eae8a547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c107c7f9.css",
+    "static/js/main.2698c551.js"
+  ]
+}
