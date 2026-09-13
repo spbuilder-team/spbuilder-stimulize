@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://stimulize.org/static/css/main.82c5bbb7.css",
-    "main.js": "https://stimulize.org/static/js/main.b7c82ebc.js",
+    "main.js": "https://stimulize.org/static/js/main.089b63ab.js",
     "static/js/453.eae8a547.chunk.js": "https://stimulize.org/static/js/453.eae8a547.chunk.js",
     "index.html": "https://stimulize.org/index.html",
     "main.82c5bbb7.css.map": "https://stimulize.org/static/css/main.82c5bbb7.css.map",
-    "main.b7c82ebc.js.map": "https://stimulize.org/static/js/main.b7c82ebc.js.map",
+    "main.089b63ab.js.map": "https://stimulize.org/static/js/main.089b63ab.js.map",
     "453.eae8a547.chunk.js.map": "https://stimulize.org/static/js/453.eae8a547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82c5bbb7.css",
-    "static/js/main.b7c82ebc.js"
+    "static/js/main.089b63ab.js"
   ]
 }
