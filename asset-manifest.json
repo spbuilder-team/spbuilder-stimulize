@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "https://stimulize.org/static/css/main.82c5bbb7.css",
-    "main.js": "https://stimulize.org/static/js/main.089b63ab.js",
+    "main.css": "https://stimulize.org/static/css/main.2849a661.css",
+    "main.js": "https://stimulize.org/static/js/main.68a8430c.js",
+    "static/css/816.65d6b5da.chunk.css": "https://stimulize.org/static/css/816.65d6b5da.chunk.css",
+    "static/js/816.309f6eed.chunk.js": "https://stimulize.org/static/js/816.309f6eed.chunk.js",
     "static/js/453.eae8a547.chunk.js": "https://stimulize.org/static/js/453.eae8a547.chunk.js",
+    "static/js/124.958aee23.chunk.js": "https://stimulize.org/static/js/124.958aee23.chunk.js",
     "index.html": "https://stimulize.org/index.html",
-    "main.82c5bbb7.css.map": "https://stimulize.org/static/css/main.82c5bbb7.css.map",
-    "main.089b63ab.js.map": "https://stimulize.org/static/js/main.089b63ab.js.map",
-    "453.eae8a547.chunk.js.map": "https://stimulize.org/static/js/453.eae8a547.chunk.js.map"
+    "main.2849a661.css.map": "https://stimulize.org/static/css/main.2849a661.css.map",
+    "main.68a8430c.js.map": "https://stimulize.org/static/js/main.68a8430c.js.map",
+    "816.65d6b5da.chunk.css.map": "https://stimulize.org/static/css/816.65d6b5da.chunk.css.map",
+    "816.309f6eed.chunk.js.map": "https://stimulize.org/static/js/816.309f6eed.chunk.js.map",
+    "453.eae8a547.chunk.js.map": "https://stimulize.org/static/js/453.eae8a547.chunk.js.map",
+    "124.958aee23.chunk.js.map": "https://stimulize.org/static/js/124.958aee23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82c5bbb7.css",
-    "static/js/main.089b63ab.js"
+    "static/css/main.2849a661.css",
+    "static/js/main.68a8430c.js"
   ]
 }
